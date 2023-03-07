@@ -9,14 +9,14 @@ email: tatsianastraltsova@gmail.com\
 Discord: tatsiana (tatsianastr)\
 LinkedIN: [linkedin.com/in/tatsianastraltsovafrontend](https://www.linkedin.com/in/tatsianastraltsovafrontend)\
 Github: [github.com/TatsianaStr](https://github.com/TatsianaStr)\
-Skype: tatsiana.nictale\
+Skype: tatsiana.nictale
 
 **About me**
 Determined and enthusiastic about learning and working. In the past, I curated the site of the school museum and became interested in web development. During my studies at IT-Academy, I independently implemented several educational projects: website [“Spices of the world”](https://tatsianastr.github.io/spiceofworld/) and two browser games. I actively continue to gain practical experience online: I participate in marathons, webinars (workshop from Glo Academy “Writing youtube in JS”, ​​development of a browser game in pure JS, JS Marathon PRO Edition: working on an rpg online game in JS and Canvas). I have good understanding and teamwork skills.\
-I have a level of **English B2**, a level of **Polish A2** and continue to improve my knowledge with mentors.\
+**Language.** I have a level of **English B2**, a level of **Polish A2** and continue to improve my knowledge with mentors.\
 Desired position - Junior Front-end developer
 
-### Hard skills
+## Hard skills
 
 - HTML (HTML5), CSS (CSS3)
 - responsive design
@@ -27,7 +27,7 @@ Desired position - Junior Front-end developer
 - webpack
 - Canvas
 
-### Experiance
+## Experiance
 
 **IT Academy, Front-End Intern**, 2020 - 2021\
 Developed a browser-based [SPA game](https://guilty-gear.tatsianastralts.repl.co/) using OOP principles:
@@ -46,7 +46,7 @@ Implemented a project to create a website ["Spices of the world"](https://tatsia
 - implemented the project of the school museum website, supported it and updated the content
 - developed a complex of interactive web-quests
 
-### Code example
+## Code example
 
 ```
 let isAnagram = function(original, test) {
@@ -56,7 +56,7 @@ let isAnagram = function(original, test) {
 }
 ```
 
-### Education
+## Education
 
 - IT-Academy. Web application development with JavaScript _2021 March - June_
   (ES6, OOP, DOM, event object, render tree, MVC, JSON,  
