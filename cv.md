@@ -2,7 +2,7 @@
 
 ### Junior Front-End developer/ trainee Front-End developer
 
-![my foto]()
+![my foto](photo.jpg)
 
 Lodz Poland\
 email: tatsianastraltsova@gmail.com\
@@ -30,12 +30,14 @@ Desired position - Junior Front-end developer
 ### Experiance
 
 **IT Academy, Front-End Intern**, 2020 - 2021\
-Developed a browser-based SPA game using OOP principles:
+Developed a browser-based [SPA game](https://guilty-gear.tatsianastralts.repl.co/) using OOP principles:
 
 - adapted the application to work in current versions of desktop browsers
 - executed network requests based on the fetch method to get character properties with saving data for the game in localStorage
-- used CSS and JS animations  
-  Implemented a project to create a website ["Spices of the world"](https://tatsianastr.github.io/spiceofworld/):
+- used CSS and JS animations
+
+Implemented a project to create a website ["Spices of the world"](https://tatsianastr.github.io/spiceofworld/):
+
 - implemented cross-browser compatibility and layout adaptability based on flex
 - used CSS animation
 
@@ -45,6 +47,14 @@ Developed a browser-based SPA game using OOP principles:
 - developed a complex of interactive web-quests
 
 ### Code example
+
+```
+let isAnagram = function(original, test) {
+  original=original.replace(/[^\w]/g, "").toLowerCase();
+  test=test.replace(/[^\w]/g, "").toLowerCase()
+  return original.split("").sort().join("") === test.split("").sort().join("");
+}
+```
 
 ### Education
 
